@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "0.1.0",
+  "description": "Server which runs logic to facilitate game",
+  "main": "src/index.ts",
+  "repository": "git@github.com:Noah-Huppert/glaciers-and-dragons.git",
+  "author": "Noah Huppert",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
